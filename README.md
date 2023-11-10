@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/ekong-admin/Terraform%20Project/_apis/build/status%2FTerraform%20Project-ASP.NET%20Core-CI?branchName=master)](https://dev.azure.com/ekong-admin/Terraform%20Project/_build/latest?definitionId=9&branchName=master)
+
 # Sample ASP.NET Core application for Azure Pipelines docs
 
 For information on how to set up a pipeline for this repository, see [Create your first pipeline](https://docs.microsoft.com/azure/devops/pipelines/get-started-yaml?view=azure-devops).
